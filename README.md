@@ -1,2 +1,3 @@
 # hello-github-260922
-test github
+昨日の晩御飯は中華でした。
+美味しかったです！
